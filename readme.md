@@ -1,7 +1,7 @@
 # Hola  :rocket:
 ## Me llamo Ricardo Moreno  
 
-##Me gusta la programación,los videojuegos
+## Me gusta la programación,los videojuegos
 
 ## mi reapositorio en github:
 
