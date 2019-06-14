@@ -1,4 +1,4 @@
-# Hola  :metal:
+# Hola  :tada:
 ## Me llamo Ricardo Moreno  
 
 *Me gusta la programación,los videojuegos *
