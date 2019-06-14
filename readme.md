@@ -1,10 +1,15 @@
-# Hola  
+# Hola  :metal:
 ## Me llamo Ricardo Moreno  
 
 *Me gusta la programación,los videojuegos *
 
+####  Arturo David Milvia
+
+
+
+
 * https://github.com/ramorenov
 
-![GitHub logo](/images/logo.png)
+![GitHub logo](https://avatars3.githubusercontent.com/u/48955377?s=400&u=ad7b4ed4044db8d03c4853889cdc4868b571dc6f&v=4)
 Format: ![Alt Text] (url)
 
