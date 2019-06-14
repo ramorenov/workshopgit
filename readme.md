@@ -3,7 +3,7 @@
 
 ## Me gusta la programación,los videojuegos
 
-## mi reapositorio en github:
+## mi repositorio en github:
 
 
 
