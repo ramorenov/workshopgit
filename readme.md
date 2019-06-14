@@ -1,10 +1,9 @@
 # Hola  :rocket:
 ## Me llamo Ricardo Moreno  
 
-*Me gusta la programación,los videojuegos *
+##Me gusta la programación,los videojuegos
 
-####  Arturo David Milvia
-
+## mi reapositorio en github:
 
 
 
