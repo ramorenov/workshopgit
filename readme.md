@@ -1,4 +1,4 @@
-# Hola  :metal:
+# Hola  :rocket:
 ## Me llamo Ricardo Moreno  
 
 *Me gusta la programación,los videojuegos *
