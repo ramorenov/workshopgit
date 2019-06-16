@@ -1,7 +1,7 @@
 # Hola  :rocket: :camel:
 ## Me llamo Ricardo Moreno  
 
-## Me gusta la programación,los videojuegos
+## Me gusta la programación,los videojuegos.   Ensayo.
 
 ## mi repositorio en github:
 
